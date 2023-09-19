@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import basuraLogo from './assets/basuraLogo.png'
 import Style from './styles.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
